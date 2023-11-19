@@ -23,7 +23,7 @@ This is a Node.js backend authentication project that demonstrates building a se
   <img src = "https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width = "60px" height = "60px">
 
 - **bcrypt**
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Hash_table_4_1_1_0_0_1_0_LL.svg" width = "60px" height = "60px">
+  <img src = "https://assets-global.website-files.com/60658b47b03f0c77e8c14884/6256965282e9d1a5a5df6841_Password%20Hashing.png" width = "60px" height = "60px">
 
 - **dotenv**
   <img src = "https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.svg" width = "60px" height = "60px">
